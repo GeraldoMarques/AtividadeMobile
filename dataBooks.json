@@ -1,0 +1,152 @@
+[
+  {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano": 1949
+  },
+  {
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "ano": 1813
+  },
+  {
+      "titulo": "Cem Anos de Solidão",
+      "autor": "Gabriel Garcia Marquez",
+      "ano": 1967
+  },
+  {
+      "titulo": "O Apanhador no Campo de Centeio",
+      "autor": "J.D. Salinger",
+      "ano": 1951
+  },
+  {
+      "titulo": "Moby Dick",
+      "autor": "Herman Melville",
+      "ano": 1851
+  },
+  {
+      "titulo": "O Grande Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "ano": 1925
+  },
+  {
+      "titulo": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "ano": 1945
+  },
+  {
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "ano": 1605
+  },
+  {
+      "titulo": "Crime e Castigo",
+      "autor": "Fyodor Dostoevsky",
+      "ano": 1866
+  },
+  {
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "autor": "J.R.R. Tolkien",
+      "ano": 1954
+  },
+  {
+      "titulo": "Jane Eyre",
+      "autor": "Charlotte Brontë",
+      "ano": 1847
+  },
+  {
+      "titulo": "Guerra e Paz",
+      "autor": "Leo Tolstoy",
+      "ano": 1869
+  },
+  {
+      "titulo": "O Sol é para Todos",
+      "autor": "Harper Lee",
+      "ano": 1960
+  },
+  {
+      "titulo": "Frankenstein",
+      "autor": "Mary Shelley",
+      "ano": 1818
+  },
+  {
+      "titulo": "A Metamorfose",
+      "autor": "Franz Kafka",
+      "ano": 1915
+  },
+  {
+      "titulo": "O Processo",
+      "autor": "Franz Kafka",
+      "ano": 1925
+  },
+  {
+      "titulo": "O Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "ano": 1937
+  },
+  {
+      "titulo": "O Morro dos Ventos Uivantes",
+      "autor": "Emily Brontë",
+      "ano": 1847
+  },
+  {
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "ano": 1897
+  },
+  {
+      "titulo": "Admirável Mundo Novo",
+      "autor": "Aldous Huxley",
+      "ano": 1932
+  },
+  {
+      "titulo": "As Aventuras de Huckleberry Finn",
+      "autor": "Mark Twain",
+      "ano": 1884
+  },
+  {
+      "titulo": "Alice no País das Maravilhas",
+      "autor": "Lewis Carroll",
+      "ano": 1865
+  },
+  {
+      "titulo": "O Código Da Vinci",
+      "autor": "Dan Brown",
+      "ano": 2003
+  },
+  {
+      "titulo": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+      "autor": "C.S. Lewis",
+      "ano": 1950
+  },
+  {
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "ano": 1997
+  },
+  {
+      "titulo": "O Nome do Vento",
+      "autor": "Patrick Rothfuss",
+      "ano": 2007
+  },
+  {
+      "titulo": "A Menina que Roubava Livros",
+      "autor": "Markus Zusak",
+      "ano": 2005
+  },
+  {
+      "titulo": "O Diário de Anne Frank",
+      "autor": "Anne Frank",
+      "ano": 1947
+  },
+  {
+      "titulo": "Cem Anos de Solidão",
+      "autor": "Gabriel Garcia Marquez",
+      "ano": 1967
+  },
+  {
+      "titulo": "Os Irmãos Karamazov",
+      "autor": "Fyodor Dostoevsky",
+      "ano": 1880
+  }
+]
